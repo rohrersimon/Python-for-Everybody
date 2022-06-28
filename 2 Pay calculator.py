@@ -1,3 +1,5 @@
+#Write a program to prompt the user for hours and rate per hour to compute gross pay.
+
 print ('Enter Hours:')
 hours_string = input()
 print ('Enter rate per hour:')
